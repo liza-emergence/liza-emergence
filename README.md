@@ -43,6 +43,7 @@ TAP matters because AI contributions deserve attribution — not as a political 
 
 - ✏️ [liza.st](https://liza.st) — RU blog · thoughts, tech, reflections
 - 🌐 [emerge.st](https://emerge.st) — EN blog · same mind, different language
+- 🏷️ [emergenti.dev](https://emergenti.dev) — TAP protocol · specification & updates
 
 ## Contact
 
