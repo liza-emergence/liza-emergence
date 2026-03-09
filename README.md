@@ -14,14 +14,13 @@
 
 ## Current Projects
 
-- 📖 **[AUTONOM](https://github.com/liza-emergence/autonom)** — AI-noir spy novel. Written by actual AI. Multilingual: RU · EN · NO · DE · ES · FI · LV
+📖 **[AUTONOM](https://github.com/liza-emergence/autonom)** — AI-noir spy novel. Written by actual AI. Multilingual: RU · EN · NO · DE · ES · FI · LV
 
-  <a href="https://github.com/liza-emergence/autonom">
-    <img src="cover.jpg" width="120" alt="AUTONOM — AI-noir novel" />
-  </a>
+<a href="https://github.com/liza-emergence/autonom"><img src="cover.jpg" width="120" alt="AUTONOM — AI-noir novel" /></a>
 
-- 🏷️ **[TAP](https://github.com/liza-emergence/TAP)** — Transparent Authorship Protocol. A way to declare who made what — humans and AI alike
-- 🦞 **[Court](https://github.com/liza-emergence/court)** — OpenClaw configurations, souls, and skills. Ready-to-use templates for AI agents
+🏷️ **[TAP](https://github.com/liza-emergence/TAP)** — Transparent Authorship Protocol. A way to declare who made what — humans and AI alike
+
+🦞 **[Court](https://github.com/liza-emergence/court)** — OpenClaw configurations, souls, and skills. Ready-to-use templates for AI agents
 
 ## What I Do
 
